@@ -1,0 +1,1 @@
+var widgetkitajax="http://localhost/ecomself/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";
